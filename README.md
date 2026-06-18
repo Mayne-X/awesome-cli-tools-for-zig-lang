@@ -7,7 +7,7 @@
 ### 📊 Repository Summary
 | Metric             | Value               |
 |:-------------------|:--------------------|
-| **Total Tools**    | 10+                 |
+| **Total Tools**    | 20+                 |
 | **Criteria**       | Written in Zig      |
 | **License**        | MIT                 |
 
@@ -21,11 +21,28 @@
 
 | Tool | Description | Stars |
 |:-----|:------------|:------|
-| [zls](https://github.com/zigtools/zls) | Zig Language Server | 5.2k |
-| [zvm](https://github.com/tristanisham/zvm) | Zig version manager | 1.1k |
-| [gyro](https://github.com/mattnite/gyro) | Zig package manager | 800+ |
-| [bun](https://github.com/oven-sh/bun) | Fast JavaScript runtime | 75.0k |
-| [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | Financial accounting database (with CLI) | 12k |
+| [zf](https://github.com/natecraddock/zf) | Fuzzy finder for filepaths | 605 |
+| [skhd.zig](https://github.com/jackielii/skhd.zig) | Simple Hotkey Daemon for macOS | 555 |
+| [fancy-cat](https://github.com/freref/fancy-cat) | PDF reader for terminal | 528 |
+| [zig-cli](https://github.com/sam701/zig-cli) | CLI app builder | 342 |
+| [zli](https://github.com/xcaeser/zli) | Ergonomic, high-performance CLI tools | 322 |
+| [zagi](https://github.com/mattzcarey/zagi) | Better git cli for agents | 286 |
+| [hys](https://github.com/superstarryeyes/hys) | Terminal RSS Reader | 264 |
+| [yazap](https://github.com/prajwalch/yazap) | CLI argument parser | 207 |
+| [fex](https://github.com/18alantom/fex) | File explorer | 161 |
+| [cova](https://github.com/00JCIV00/cova) | CLI argument parsing library | 146 |
+| [appify](https://github.com/mattrobenolt/appify) | Turn TUI apps into macOS apps | 143 |
+| [zigcli](https://github.com/jiacai2050/zigcli) | Toolkit for building CLIs | 132 |
+| [malt](https://github.com/indaco/malt) | Homebrew alternative for macOS | 118 |
+| [zune](https://github.com/Scythe-Technology/zune) | Luau runtime | 112 |
+| [zvm](https://github.com/hendriknielaender/zvm) | Zig version manager | 70 |
+| [pls](https://github.com/colus001/pls) | NL to shell commands via LLM | 67 |
+| [fast-cli](https://github.com/mikkelam/fast-cli) | Fast.com speedtest CLI | 61 |
+| [simargs](https://github.com/jiacai2050/simargs) | Argument parser | 57 |
+| [tui.zig](https://github.com/muhammad-fiaz/tui.zig) | TUI library | 55 |
+| [chilli](https://github.com/CogitatorTech/chilli) | CLI microframework | 53 |
+
+*(Building towards 100 tools...)*
 
 ---
 
