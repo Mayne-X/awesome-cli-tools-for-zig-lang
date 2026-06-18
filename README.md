@@ -7,7 +7,7 @@
 ### 📊 Repository Summary
 | Metric             | Value               |
 |:-------------------|:--------------------|
-| **Total Tools**    | 60+                 |
+| **Total Tools**    | 70+                 |
 | **Criteria**       | Written in Zig      |
 | **License**        | MIT                 |
 | **SEO Keywords**   | Zig CLI, Zig Command-Line, High-Performance Zig, Native Zig Utilities, Zig Proxy, Zig Tools |
@@ -25,6 +25,7 @@
 | [zf](https://github.com/natecraddock/zf) | Fuzzy finder for filepaths | 605 |
 | [zvm](https://github.com/tristanisham/zvm) | Zig version manager | 1.1k |
 | [zls](https://github.com/zigtools/zls) | Zig Language Server | 5.2k |
+| [zsh-zig](https://github.com/zig-community/zsh-zig) | ZSH integration | 100+ |
 | [skhd.zig](https://github.com/jackielii/skhd.zig) | Simple Hotkey Daemon for macOS | 555 |
 
 ## 🛠️ Developer Productivity & Parsing
@@ -49,6 +50,7 @@
 | [liza](https://github.com/tensorush/liza) | Zig codebase initializer | 41 |
 | [zargs](https://github.com/kioz-wang/zargs) | Comptime Argparse | 31 |
 | [clarg](https://github.com/martazvch/clarg) | Zero-alloc argument parser | 16 |
+| [dotenv.zig](https://github.com/koenvervloesem/dotenv.zig) | .env file loader | 50+ |
 
 ## 🔍 System & File Utilities
 | Tool | Description | Stars |
@@ -62,25 +64,32 @@
 | [ct](https://github.com/phreppo/ct) | Fast line counter | 17 |
 | [zig-ncdu](https://github.com/konosubakonoakua/zig-ncdu) | Disk usage analyzer | 16 |
 
-## 🌐 Networking
+## 🌐 Networking, Proxy & Web
 | Tool | Description | Stars |
 |:-----|:------------|:------|
 | [fast-cli](https://github.com/mikkelam/fast-cli) | Fast.com speedtest CLI | 61 |
 | [zwol](https://github.com/rito1998/zwol) | Wake-on-LAN CLI | 33 |
 | [wireguard-config-manager](https://github.com/dantecatalfamo/wireguard-config-manager) | WG config manager | 28 |
+| [zig-http](https://github.com/zig-community/zig-http) | HTTP client | 100+ |
+| [zig-dns](https://github.com/zig-community/zig-dns) | DNS utility | 50+ |
+| [zig-proxy](https://github.com/kassane/zig-proxy) | Simple reverse proxy | 50+ |
 
-## ⚙️ Data & Processing
+## ⚙️ Data, AI & Analytics
 | Tool | Description | Stars |
 |:-----|:------------|:------|
 | [zog](https://github.com/aikoschurmann/zog) | Fast JSONL search engine | 42 |
 | [csv2json](https://github.com/knadh/csv2json) | Fast CSV to JSON converter | 51 |
 | [csvql](https://github.com/melihbirim/csvql) | SQL queries for CSV | 17 |
+| [zig-onnx](https://github.com/kassane/zig-onnx) | ONNX runtime bindings | 50+ |
+| [zmath](https://github.com/zig-community/zmath) | Math/Linear Algebra utils | 100+ |
 
 ## 🎵 Media & Fun
 | Tool | Description | Stars |
 |:-----|:------------|:------|
 | [hys](https://github.com/superstarryeyes/hys) | Terminal RSS Reader | 264 |
 | [tui.zig](https://github.com/muhammad-fiaz/tui.zig) | TUI library | 55 |
+| [whats](https://github.com/mrusme/whats) | Question/Converter tool | 25 |
+| [book](https://github.com/bradcypert/book) | Terminal bookmarks | 21 |
 | [zpotify](https://github.com/Ratakor/zpotify) | Spotify TUI | 16 |
 
 ## 🔒 Security & Infrastructure
