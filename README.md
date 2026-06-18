@@ -7,7 +7,7 @@
 ### 📊 Repository Summary
 | Metric             | Value               |
 |:-------------------|:--------------------|
-| **Total Tools**    | 50+                 |
+| **Total Tools**    | 60+                 |
 | **Criteria**       | Written in Zig      |
 | **License**        | MIT                 |
 | **SEO Keywords**   | Zig CLI, Zig Command-Line, High-Performance Zig, Native Zig Utilities, Zig Proxy, Zig Tools |
@@ -25,15 +25,20 @@
 | [zf](https://github.com/natecraddock/zf) | Fuzzy finder for filepaths | 605 |
 | [zvm](https://github.com/tristanisham/zvm) | Zig version manager | 1.1k |
 | [zls](https://github.com/zigtools/zls) | Zig Language Server | 5.2k |
-| [zsh-zig](https://github.com/zig-community/zsh-zig) | ZSH integration | 100+ |
 | [skhd.zig](https://github.com/jackielii/skhd.zig) | Simple Hotkey Daemon for macOS | 555 |
 
-## 🛠️ Developer Productivity
+## 🛠️ Developer Productivity & Parsing
 | Tool | Description | Stars |
 |:-----|:------------|:------|
+| [zig-clap](https://github.com/Hejsil/zig-clap) | Command line argument parsing | 1.6k |
+| [zpdf](https://github.com/Lulzx/zpdf) | Zero-copy PDF text extraction | 909 |
 | [gyro](https://github.com/mattnite/gyro) | Zig package manager | 800+ |
+| [mecha](https://github.com/Hejsil/mecha) | Parser combinator library | 602 |
+| [yuku](https://github.com/yuku-toolchain/yuku) | JS/TS compiler toolchain | 372 |
 | [zig-cli](https://github.com/sam701/zig-cli) | CLI app builder | 342 |
-| [zli](https://github.com/xcaeser/zli) | Ergonomic, high-performance CLI tools | 322 |
+| [zli](https://github.com/xcaeser/zli) | High-performance CLI tools | 322 |
+| [zig-args](https://github.com/ikskuh/zig-args) | Struct-based arg parser | 303 |
+| [zig-yaml](https://github.com/kubkon/zig-yaml) | YAML parser | 293 |
 | [zagi](https://github.com/mattzcarey/zagi) | Better git cli for agents | 286 |
 | [yazap](https://github.com/prajwalch/yazap) | CLI argument parser | 207 |
 | [zigcli](https://github.com/jiacai2050/zigcli) | Toolkit for building CLIs | 132 |
@@ -42,10 +47,7 @@
 | [simargs](https://github.com/jiacai2050/simargs) | Argument parser | 57 |
 | [chilli](https://github.com/CogitatorTech/chilli) | CLI microframework | 53 |
 | [liza](https://github.com/tensorush/liza) | Zig codebase initializer | 41 |
-| [fern-core](https://github.com/fern-tui/fern-core) | TUI framework | 28 |
-| [zig-prompter](https://github.com/GabrieleInvernizzi/zig-prompter) | Interactive prompts | 25 |
 | [zargs](https://github.com/kioz-wang/zargs) | Comptime Argparse | 31 |
-| [zig-embshell](https://github.com/ringtailsoftware/zig-embshell) | Embeddable shell | 21 |
 | [clarg](https://github.com/martazvch/clarg) | Zero-alloc argument parser | 16 |
 
 ## 🔍 System & File Utilities
@@ -79,19 +81,14 @@
 |:-----|:------------|:------|
 | [hys](https://github.com/superstarryeyes/hys) | Terminal RSS Reader | 264 |
 | [tui.zig](https://github.com/muhammad-fiaz/tui.zig) | TUI library | 55 |
-| [whats](https://github.com/mrusme/whats) | Question/Converter tool | 25 |
-| [book](https://github.com/bradcypert/book) | Terminal bookmarks | 21 |
 | [zpotify](https://github.com/Ratakor/zpotify) | Spotify TUI | 16 |
 
-## 🔒 Security & Privacy (Emerging)
+## 🔒 Security & Infrastructure
 | Tool | Description | Stars |
 |:-----|:------------|:------|
 | [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | Financial Database | 12k |
-
-## 🌍 Infrastructure & Tooling (Emerging)
-| Tool | Description | Stars |
-|:-----|:------------|:------|
-| [bun](https://github.com/oven-sh/bun) | JS Runtime / Infrastructure | 75.0k |
+| [sniffglue](https://github.com/kpcyrd/sniffglue) | Packet sniffer | 2.1k |
+| [rheia](https://github.com/lithdew/rheia) | Blockchain in Zig | 292 |
 
 ---
 
