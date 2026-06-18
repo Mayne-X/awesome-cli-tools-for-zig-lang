@@ -7,7 +7,7 @@
 ### 📊 Repository Summary
 | Metric             | Value               |
 |:-------------------|:--------------------|
-| **Total Tools**    | 50+                 |
+| **Total Tools**    | 40+                 |
 | **Criteria**       | Written in Zig      |
 | **License**        | MIT                 |
 | **SEO Keywords**   | Zig CLI, Zig Command-Line, High-Performance Zig, Native Zig Utilities |
@@ -46,6 +46,7 @@
 | [zig-prompter](https://github.com/GabrieleInvernizzi/zig-prompter) | Interactive prompts | 25 |
 | [zargs](https://github.com/kioz-wang/zargs) | Comptime Argparse | 31 |
 | [zig-embshell](https://github.com/ringtailsoftware/zig-embshell) | Embeddable shell | 21 |
+| [clarg](https://github.com/martazvch/clarg) | Zero-alloc argument parser | 16 |
 
 ## 🔍 System & File Utilities
 | Tool | Description | Stars |
@@ -56,6 +57,8 @@
 | [zlist](https://github.com/here-Leslie-Lau/zlist) | Modern ls alternative | 40 |
 | [dipm](https://github.com/Hejsil/dipm) | Alternative to `curl | sh` | 49 |
 | [Hexdump](https://github.com/KeithBrown39423/Hexdump) | Hex dumping utility | 18 |
+| [ct](https://github.com/phreppo/ct) | Fast line counter | 17 |
+| [zig-ncdu](https://github.com/konosubakonoakua/zig-ncdu) | Disk usage analyzer | 16 |
 
 ## 🌐 Networking
 | Tool | Description | Stars |
@@ -69,6 +72,7 @@
 |:-----|:------------|:------|
 | [zog](https://github.com/aikoschurmann/zog) | Fast JSONL search engine | 42 |
 | [csv2json](https://github.com/knadh/csv2json) | Fast CSV to JSON converter | 51 |
+| [csvql](https://github.com/melihbirim/csvql) | SQL queries for CSV | 17 |
 
 ## 🎵 Media & Fun
 | Tool | Description | Stars |
@@ -77,6 +81,7 @@
 | [tui.zig](https://github.com/muhammad-fiaz/tui.zig) | TUI library | 55 |
 | [whats](https://github.com/mrusme/whats) | Question/Converter tool | 25 |
 | [book](https://github.com/bradcypert/book) | Terminal bookmarks | 21 |
+| [zpotify](https://github.com/Ratakor/zpotify) | Spotify TUI | 16 |
 
 ---
 
