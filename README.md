@@ -7,7 +7,7 @@
 ### 📊 Repository Summary
 | Metric             | Value               |
 |:-------------------|:--------------------|
-| **Total Tools**    | 20+                 |
+| **Total Tools**    | 30+                 |
 | **Criteria**       | Written in Zig      |
 | **License**        | MIT                 |
 
@@ -38,9 +38,12 @@
 | [zvm](https://github.com/hendriknielaender/zvm) | Zig version manager | 70 |
 | [pls](https://github.com/colus001/pls) | NL to shell commands via LLM | 67 |
 | [fast-cli](https://github.com/mikkelam/fast-cli) | Fast.com speedtest CLI | 61 |
-| [simargs](https://github.com/jiacai2050/simargs) | Argument parser | 57 |
-| [tui.zig](https://github.com/muhammad-fiaz/tui.zig) | TUI library | 55 |
-| [chilli](https://github.com/CogitatorTech/chilli) | CLI microframework | 53 |
+| [csv2json](https://github.com/knadh/csv2json) | Fast CSV to JSON converter | 51 |
+| [dipm](https://github.com/Hejsil/dipm) | Alternative to `curl | sh` | 49 |
+| [zigfetch](https://github.com/utox39/zigfetch) | System information tool | 45 |
+| [zog](https://github.com/aikoschurmann/zog) | Fast, zero-allocation JSONL search engine | 42 |
+| [liza](https://github.com/tensorush/liza) | Zig codebase initializer | 41 |
+| [zlist](https://github.com/here-Leslie-Lau/zlist) | Modern ls alternative | 40 |
 
 *(Building towards 100 tools...)*
 
