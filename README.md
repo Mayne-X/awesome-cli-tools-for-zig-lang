@@ -7,10 +7,10 @@
 ### 📊 Repository Summary
 | Metric             | Value               |
 |:-------------------|:--------------------|
-| **Total Tools**    | 40+                 |
+| **Total Tools**    | 50+                 |
 | **Criteria**       | Written in Zig      |
 | **License**        | MIT                 |
-| **SEO Keywords**   | Zig CLI, Zig Command-Line, High-Performance Zig, Native Zig Utilities |
+| **SEO Keywords**   | Zig CLI, Zig Command-Line, High-Performance Zig, Native Zig Utilities, Zig Proxy, Zig Tools |
 
 ---
 
@@ -82,6 +82,16 @@
 | [whats](https://github.com/mrusme/whats) | Question/Converter tool | 25 |
 | [book](https://github.com/bradcypert/book) | Terminal bookmarks | 21 |
 | [zpotify](https://github.com/Ratakor/zpotify) | Spotify TUI | 16 |
+
+## 🔒 Security & Privacy (Emerging)
+| Tool | Description | Stars |
+|:-----|:------------|:------|
+| [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | Financial Database | 12k |
+
+## 🌍 Infrastructure & Tooling (Emerging)
+| Tool | Description | Stars |
+|:-----|:------------|:------|
+| [bun](https://github.com/oven-sh/bun) | JS Runtime / Infrastructure | 75.0k |
 
 ---
 
