@@ -1,24 +1,43 @@
-# Awesome Zig CLI Tools - Curated List of High-Performance Command-Line Utilities
+# Awesome Zig CLI Tools - 200+ High-Performance Command-Line Utilities Written in Zig
 
-> A comprehensive, curated collection of production-ready, **100% Zig-native** command-line utilities. These tools are fast, memory-efficient, and easily distributable as single binaries.
+> The ultimate curated collection of **200+ production-ready, Zig-native command-line tools, utilities, and TUI applications**. Everything from terminal emulators, shells, file managers, text editors, network clients, developer tools, AI agents, media players, and security tools — all compiled as fast, memory-efficient, single-binary executables. Discover the best **Zig CLI tools** for your terminal workflow.
 
 ---
 
 ### 📊 Repository Summary
-| Metric             | Value               |
-|:-------------------|:--------------------|
-| **Total Tools**    | 200+|
-| **Criteria**       | Written in Zig      |
-| **License**        | MIT                 |
-| **SEO Keywords**   | Zig CLI, Zig Command-Line, High-Performance Zig, Native Zig Utilities, Zig Proxy, Zig Tools |
+| Metric             | Value                |
+|:-------------------|:---------------------|
+| **Total Tools**    | 200+                 |
+| **Category**       | Zig CLI Tools, Zig Command-Line Utilities, TUI Apps |
+| **License**        | MIT                  |
+| **SEO Keywords**   | Zig CLI, Zig Command-Line Tools, High-Performance Zig Utilities, Native Zig CLI, Zig Terminal Emulators, Zig TUI, Zig Shell Tools, Zig Network CLI, Zig Developer Tools, Zig Media Tools, Zig Security Tools |
+| **Requirements**   | Zig Compiler (or pre-built binaries) |
 
 ---
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Stars](https://img.shields.io/github/stars/Mayne-X/awesome-cli-tools-for-zig-lang)](https://github.com/Mayne-X/awesome-cli-tools-for-zig-lang/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re "Awesome Zig CLI Tools List")
+[![GitHub Stars](https://img.shields.io/github/stars/Mayne-X/awesome-cli-tools-for-zig-lang)](https://github.com/Mayne-X/awesome-cli-tools-for-zig-lang/stargazers "Star this repo for the best Zig CLI tools")
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
+[![Zig Version](https://img.shields.io/badge/Zig-0.14.x-orange.svg)](https://ziglang.org "Built for the Zig programming language")
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md "Submit your Zig CLI tool via PR")
+
+---
+
+## 📋 Table of Contents
+- [🚀 Shell & Terminal Enhancements](#-shell--terminal-enhancements)
+- [🛠️ Developer Productivity & Parsing](#-developer-productivity--parsing)
+- [🔍 System & File Utilities](#-system--file-utilities)
+- [🌐 Networking & Web Tools](#-networking--web-tools)
+- [⚙️ Data, AI & Analytics](#-data-ai--analytics)
+- [🎵 Media & Fun](#-media--fun)
+- [🔒 Security & Infrastructure](#-security--infrastructure)
+- [🤝 Contributing](#-contributing)
+
+---
 
 ## 🚀 Shell & Terminal Enhancements
+*Terminal emulators, multiplexers, shell utilities, and prompt tools — all built in Zig for maximum performance.*
+
 | Tool                                                             | Description                                                                | Stars |
 |:---------------------------------------------------------------- |:-------------------------------------------------------------------------- |:----- |
 | [bun](https://github.com/oven-sh/bun)                            | High-speed JavaScript runtime and bundler                                  | 75.0k |
@@ -49,6 +68,8 @@
 | [termscope](https://github.com/mwunsch/termscope)                | Headless terminal emulator CLI powered by libghostty-vt                    | 18    |
 
 ## 🛠️ Developer Productivity & Parsing
+*Text editors, argument parsers, package managers, code generators, and dev tooling — Zig's growing productivity ecosystem.*
+
 | Tool                                                                    | Description                                                             | Stars |
 |:----------------------------------------------------------------------- |:----------------------------------------------------------------------- |:---- |
 | [dockerc](https://github.com/NilsIrl/dockerc)                           | Container image to single executable compiler                           | 4.9k |
@@ -126,6 +147,8 @@
 | [zodo](https://github.com/unixzii/zodo)                                 | Minimalist CLI todo list written in Zig                                 | 4    |
 
 ## 🔍 System & File Utilities
+*File explorers, disk analyzers, image comparison tools, clipboard managers, and system monitoring CLI tools written in Zig.*
+
 | Tool                                                                              | Description                                                     | Stars |
 |:--------------------------------------------------------------------------------- |:--------------------------------------------------------------- |:---- |
 | [odiff](https://github.com/dmtrKovalenko/odiff)                                   | Fast SIMD-first image comparison utility                        | 3.0k |
@@ -155,9 +178,11 @@
 | [zigscan](https://github.com/Adel-Ayoub/zigscan)                                  | Simple port scanning CLI tool written in Zig                    | 8    |
 | [tlpr-zig](https://github.com/dantecatalfamo/tlpr-zig)                            | Thermal printer library and CLI for Zig                         | 7    |
 | [comprezz](https://github.com/bkataru/comprezz)                                   | Single-file gzip/deflate compression library and binary for Zig | 6    |
-| [dipm](https://github.com/Hejsil/dipm)                                            | Secure alternative to `curl                                     | sh`  |
+| [dipm](https://github.com/Hejsil/dipm)                                            | Secure alternative to `curl \| sh`                                   |
 
 ## 🌐 Networking & Web Tools
+*HTTP clients, DNS tools, proxies, database clients, and network utilities — all compiled as fast Zig binaries.*
+
 | Tool                                                                    | Description                                                        | Stars |
 |:----------------------------------------------------------------------- |:------------------------------------------------------------------ |:---- |
 | [zig-http](https://github.com/zig-community/zig-http)                   | Standard HTTP client library                                       | 100+ |
@@ -179,6 +204,8 @@
 | [CliQue](https://github.com/AviTheBrown/CliQue)                         | High-performance room-based terminal chat server with polished TUI | 3    |
 
 ## ⚙️ Data, AI & Analytics
+*AI agent CLIs, LLM tools, data processing pipelines, search engines, and analytics utilities built with Zig.*
+
 | Tool                                                           | Description                                                           | Stars |
 |:-------------------------------------------------------------- |:--------------------------------------------------------------------- |:---- |
 | [claude-p](https://github.com/smithersai/claude-p)             | Drop-in replacement for `claude -p` using zmux PTY sessions           | 387  |
@@ -205,6 +232,8 @@
 | [clickhouse-zig](https://github.com/0xrinegade/clickhouse-zig) | Blazingly fast ClickHouse database client in Zig                      | 2    |
 
 ## 🎵 Media & Fun
+*Pixel art editors, terminal games, music synthesizers, video players, and creative tools — all running in your terminal with Zig.*
+
 | Tool                                                         | Description                                                       | Stars |
 |:------------------------------------------------------------ |:----------------------------------------------------------------- |:---- |
 | [fizzy](https://github.com/fizzyedit/fizzy)                  | Feature-rich pixel art editor written in Zig                      | 1.4k |
@@ -235,6 +264,8 @@
 | [zenpaper](https://github.com/SuperAuguste/zenpaper)         | WIP CLI xenpaper music implementation                             | 4    |
 
 ## 🔒 Security & Infrastructure
+*Encryption tools, packet sniffers, blockchain clients, and infrastructure utilities compiled in Zig for maximum performance.*
+
 | Tool                                                      | Description                                                     | Stars |
 |:--------------------------------------------------------- |:--------------------------------------------------------------- |:---- |
 | [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | Financial accounting database                                   | 12k  |
@@ -245,10 +276,22 @@
 | [turbocrypt](https://github.com/jedisct1/turbocrypt)      | Fast, secure tool for encrypting/decrypting files & directories | 62   |
 | [yam](https://github.com/leishman/yam)                    | Lightweight Bitcoin node connection and analysis CLI tool       | 43   |
 | [livedecode](https://github.com/ikskuh/livedecode)        | A super hacky tool to decode unknown binary formats             | 30   |
+
 ---
 
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+## 🤝 Contributing
+
+Found a Zig CLI tool that's missing from this list? Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to submit your tool.
+
+### 📌 How to Add a Tool
+1. Ensure the tool is **written in Zig** and compiles to a native binary
+2. Verify it's not already listed in this repository
+3. Open a [pull request](https://github.com/Mayne-X/awesome-cli-tools-for-zig-lang/pulls) with your addition
+
+### ⭐ Support
+If you find this collection useful, please consider [starring the repository](https://github.com/Mayne-X/awesome-cli-tools-for-zig-lang/stargazers) to help others discover these amazing Zig CLI tools.
+
+---
 
 ## License
 MIT License - see [LICENSE](LICENSE) file.
