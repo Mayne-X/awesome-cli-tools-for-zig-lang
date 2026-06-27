@@ -7,7 +7,7 @@
 ### 📊 Repository Summary
 | Metric             | Value               |
 |:-------------------|:--------------------|
-| **Total Tools**    | 118+                 |
+| **Total Tools**    | 122+|
 | **Criteria**       | Written in Zig      |
 | **License**        | MIT                 |
 | **SEO Keywords**   | Zig CLI, Zig Command-Line, High-Performance Zig, Native Zig Utilities, Zig Proxy, Zig Tools |
@@ -31,6 +31,8 @@
 | [zsh-zig](https://github.com/zig-community/zsh-zig)              | Native ZSH integration for Zig                                     | 100+  |
 | [zigish](https://github.com/ratfactor/zigish)                    | A toy Unix shell written in Zig                                    | 69    |
 | [mold](https://github.com/Adictya/mold)                          | High-performance TUI engine with a Zig core and SolidJS frontend   | 64    |
+| [fast-cli](https://github.com/mikkelam/fast-cli)                 | Command line version of fast.com in ~1.2 MB                        | 63    |
+| [zwol](https://github.com/rito1998/zwol)                         | Wake-on-LAN CLI written in Zig                                     | 34    |
 | [hsh](https://github.com/GrayHatter/hsh)                         | Modern Unix shell optimized for developer ergonomics               | 30    |
 | [crash](https://github.com/RGBCube/crash)                        | User-configurable login shell configured by environment variables  | 25    |
 | [prompt](https://github.com/kbd/prompt)                          | Fast, customizable prompt generator for Unix shells                | 21    |
@@ -38,48 +40,49 @@
 | [termscope](https://github.com/mwunsch/termscope)                | Headless terminal emulator CLI powered by libghostty-vt            | 18    |
 
 ## 🛠️ Developer Productivity & Parsing
-| Tool                                                         | Description                                                    | Stars |
-|:------------------------------------------------------------ |:-------------------------------------------------------------- |:---- |
-| [flow](https://github.com/neurocyte/flow)                    | Flow Control: a programmer's modal text editor                 | 2.0k |
-| [zig-clap](https://github.com/Hejsil/zig-clap)               | Command-line argument parser library                           | 1.6k |
-| [zpdf](https://github.com/Lulzx/zpdf)                        | Zero-copy PDF text extraction                                  | 909  |
-| [gyro](https://github.com/mattnite/gyro)                     | Modular package manager for Zig                                | 800+ |
-| [mecha](https://github.com/Hejsil/mecha)                     | Powerful parser combinator library                             | 602  |
-| [focus](https://github.com/jamii/focus)                      | Minimalist modal text editor designed for focus                | 380  |
-| [yuku](https://github.com/yuku-toolchain/yuku)               | High-performance JS/TS compiler                                | 372  |
-| [msvcup](https://github.com/marler8997/msvcup)               | Hermetic installer of MSVC and Windows SDK from the CLI        | 357  |
-| [zig-cli](https://github.com/sam701/zig-cli)                 | Toolkit for building CLI applications                          | 342  |
-| [zli](https://github.com/xcaeser/zli)                        | Ergonomic CLI building utilities                               | 322  |
-| [zig-args](https://github.com/ikskuh/zig-args)               | Struct-based argument parsing                                  | 303  |
-| [zig-yaml](https://github.com/kubkon/zig-yaml)               | YAML serialization and parsing                                 | 293  |
-| [zagi](https://github.com/mattzcarey/zagi)                   | Git CLI wrapper for AI agents                                  | 286  |
-| [futureproof](https://github.com/mkeeter/futureproof)        | Live shader editor powered by Neovim, WebGPU, and Zig          | 246  |
-| [yazap](https://github.com/prajwalch/yazap)                  | Flexible argument parser utility                               | 207  |
-| [cova](https://github.com/00JCIV00/cova)                     | Commands, options, values, and arguments parsing library       | 147  |
-| [zigdoc](https://github.com/rockorager/zigdoc)               | Command-line tool to view documentation for Zig std symbols    | 135  |
-| [zigcli](https://github.com/jiacai2050/zigcli)               | Framework for building CLI tools                               | 132  |
-| [malt](https://github.com/indaco/malt)                       | Homebrew alternative for macOS                                 | 118  |
-| [zune](https://github.com/Scythe-Technology/zune)            | High-performance Luau runtime                                  | 112  |
-| [zig-doctest](https://github.com/kristoff-it/zig-doctest)    | Tool for testing Zig code snippets in books and websites       | 80   |
-| [parser-toolkit](https://github.com/ikskuh/parser-toolkit)   | Toolkit to write recursive-descent parsers in Zig              | 80   |
-| [kisa](https://github.com/greenfork/kisa)                    | Innovative, modern text editor for programmers                 | 79   |
-| [gram](https://github.com/spiral-ladder/gram)                | A Zig port of the kilo terminal text editor under 1000 LOC     | 76   |
-| [simargs](https://github.com/jiacai2050/simargs)             | Simple argument parser library                                 | 57   |
-| [chilli](https://github.com/CogitatorTech/chilli)            | Minimalist CLI microframework                                  | 53   |
-| [dotenv.zig](https://github.com/koenvervloesem/dotenv.zig)   | Simple .env file loader for Zig                                | 50+  |
-| [liza](https://github.com/tensorush/liza)                    | Rapid Zig codebase initializer                                 | 41   |
-| [hat](https://github.com/ivanjermakov/hat)                   | Hackable modal text editor for modern terminals                | 36   |
-| [flint](https://github.com/the-flint-lang/flint)             | Pipeline-oriented system language for CLI tools built in Zig   | 33   |
-| [zargs](https://github.com/kioz-wang/zargs)                  | Comptime argument parser utility                               | 31   |
-| [flag2struct](https://github.com/andrewrk/flag2struct)       | CLI tool converting flags-style declarations to packed structs | 30   |
-| [zig-dwarfdump](https://github.com/kubkon/zig-dwarfdump)     | Native dwarfdump utility clone written in Zig                  | 30   |
-| [zelf](https://github.com/kubkon/zelf)                       | ELF parser and inspector utility                               | 30   |
-| [snek](https://github.com/BitlyTwiser/snek)                  | Simple CLI parser to build CLI applications in Zig             | 29   |
-| [zig-inquirer](https://github.com/nektro/zig-inquirer)       | Utilities for prompting information from the user on the CLI   | 28   |
-| [docgen](https://github.com/ziglang/docgen)                  | Tool for generating autotested documentation                   | 27   |
-| [hola](https://github.com/ratazzi/hola)                      | macOS setup tool merging Brewfile, mise, and dotfiles          | 23   |
-| [openapi2zig](https://github.com/christianhelle/openapi2zig) | Generator tool for Zig clients from OpenAPI specs              | 18   |
-| [clarg](https://github.com/martazvch/clarg)                  | Zero-allocation argument parser                                | 16   |
+| Tool                                                               | Description                                                    | Stars |
+|:------------------------------------------------------------------ |:-------------------------------------------------------------- |:---- |
+| [flow](https://github.com/neurocyte/flow)                          | Flow Control: a programmer's modal text editor                 | 2.0k |
+| [zig-clap](https://github.com/Hejsil/zig-clap)                     | Command-line argument parser library                           | 1.6k |
+| [zpdf](https://github.com/Lulzx/zpdf)                              | Zero-copy PDF text extraction                                  | 909  |
+| [gyro](https://github.com/mattnite/gyro)                           | Modular package manager for Zig                                | 800+ |
+| [mecha](https://github.com/Hejsil/mecha)                           | Powerful parser combinator library                             | 602  |
+| [focus](https://github.com/jamii/focus)                            | Minimalist modal text editor designed for focus                | 380  |
+| [yuku](https://github.com/yuku-toolchain/yuku)                     | High-performance JS/TS compiler                                | 372  |
+| [msvcup](https://github.com/marler8997/msvcup)                     | Hermetic installer of MSVC and Windows SDK from the CLI        | 357  |
+| [zig-cli](https://github.com/sam701/zig-cli)                       | Toolkit for building CLI applications                          | 342  |
+| [zli](https://github.com/xcaeser/zli)                              | Ergonomic CLI building utilities                               | 322  |
+| [zig-args](https://github.com/ikskuh/zig-args)                     | Struct-based argument parsing                                  | 303  |
+| [zig-yaml](https://github.com/kubkon/zig-yaml)                     | YAML serialization and parsing                                 | 293  |
+| [zagi](https://github.com/mattzcarey/zagi)                         | Git CLI wrapper for AI agents                                  | 286  |
+| [futureproof](https://github.com/mkeeter/futureproof)              | Live shader editor powered by Neovim, WebGPU, and Zig          | 246  |
+| [yazap](https://github.com/prajwalch/yazap)                        | Flexible argument parser utility                               | 207  |
+| [cova](https://github.com/00JCIV00/cova)                           | Commands, options, values, and arguments parsing library       | 147  |
+| [zigdoc](https://github.com/rockorager/zigdoc)                     | Command-line tool to view documentation for Zig std symbols    | 135  |
+| [zigcli](https://github.com/jiacai2050/zigcli)                     | Framework for building CLI tools                               | 132  |
+| [malt](https://github.com/indaco/malt)                             | Homebrew alternative for macOS                                 | 118  |
+| [zune](https://github.com/Scythe-Technology/zune)                  | High-performance Luau runtime                                  | 112  |
+| [zig-doctest](https://github.com/kristoff-it/zig-doctest)          | Tool for testing Zig code snippets in books and websites       | 80   |
+| [parser-toolkit](https://github.com/ikskuh/parser-toolkit)         | Toolkit to write recursive-descent parsers in Zig              | 80   |
+| [kisa](https://github.com/greenfork/kisa)                          | Innovative, modern text editor for programmers                 | 79   |
+| [gram](https://github.com/spiral-ladder/gram)                      | A Zig port of the kilo terminal text editor under 1000 LOC     | 76   |
+| [simargs](https://github.com/jiacai2050/simargs)                   | Simple argument parser library                                 | 57   |
+| [chilli](https://github.com/CogitatorTech/chilli)                  | Minimalist CLI microframework                                  | 53   |
+| [dotenv.zig](https://github.com/koenvervloesem/dotenv.zig)         | Simple .env file loader for Zig                                | 50+  |
+| [liza](https://github.com/tensorush/liza)                          | Rapid Zig codebase initializer                                 | 41   |
+| [hat](https://github.com/ivanjermakov/hat)                         | Hackable modal text editor for modern terminals                | 36   |
+| [flint](https://github.com/the-flint-lang/flint)                   | Pipeline-oriented system language for CLI tools built in Zig   | 33   |
+| [zargs](https://github.com/kioz-wang/zargs)                        | Comptime argument parser utility                               | 31   |
+| [flag2struct](https://github.com/andrewrk/flag2struct)             | CLI tool converting flags-style declarations to packed structs | 30   |
+| [zig-dwarfdump](https://github.com/kubkon/zig-dwarfdump)           | Native dwarfdump utility clone written in Zig                  | 30   |
+| [zelf](https://github.com/kubkon/zelf)                             | ELF parser and inspector utility                               | 30   |
+| [snek](https://github.com/BitlyTwiser/snek)                        | Simple CLI parser to build CLI applications in Zig             | 29   |
+| [zig-inquirer](https://github.com/nektro/zig-inquirer)             | Utilities for prompting information from the user on the CLI   | 28   |
+| [docgen](https://github.com/ziglang/docgen)                        | Tool for generating autotested documentation                   | 27   |
+| [zig-prompter](https://github.com/GabrieleInvernizzi/zig-prompter) | Lightweight library for interactive text-based prompts         | 25   |
+| [hola](https://github.com/ratazzi/hola)                            | macOS setup tool merging Brewfile, mise, and dotfiles          | 23   |
+| [openapi2zig](https://github.com/christianhelle/openapi2zig)       | Generator tool for Zig clients from OpenAPI specs              | 18   |
+| [clarg](https://github.com/martazvch/clarg)                        | Zero-allocation argument parser                                | 16   |
 
 ## 🔍 System & File Utilities
 | Tool                                                                            | Description                                                | Stars |
@@ -121,6 +124,7 @@
 |:------------------------------------------------------ |:--------------------------------------------------------------------- |:---- |
 | [claude-p](https://github.com/smithersai/claude-p)     | Drop-in replacement for `claude -p` using zmux PTY sessions           | 387  |
 | [usecomputer](https://github.com/remorses/usecomputer) | Computer automation CLI for AI agents using screenshots & PTY         | 304  |
+| [ztk](https://github.com/codejunkie99/ztk)             | CLI proxy that reduces LLM token consumption by 78%                   | 198  |
 | [mlx-serve](https://github.com/ddalcu/mlx-serve)       | Native, high-performance LLM inference server for Apple Silicon       | 190  |
 | [zmath](https://github.com/zig-community/zmath)        | Linear algebra utilities                                              | 100+ |
 | [pls](https://github.com/colus001/pls)                 | CLI tool translating natural language into shell commands via LLM     | 67   |
